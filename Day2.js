@@ -1,8 +1,8 @@
-for(let r=1; r<=5; r++){
-	let s=""
-	for(c=1; c<=r;c++)
+for(let a=1; a<=5; a++){
+	let s= ""
+	for(let b=1; b<=a;b++)
 	{
-		s=s+"*"
+		s= s+"*"
 	}
 	console.log(s);
 }
