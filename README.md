@@ -1,1 +1,1 @@
-# Javascript-Assignment-Submission-Day1
+# Javascript-Assignment-Submission
